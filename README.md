@@ -1,6 +1,7 @@
 ### Hello, Abhinav_dubey here! 👋
+⚡ Fun fact:I not good at jocking but always try to make joke same thing with singing
 
-
+<!-- 
 **ramanabhinav7/ramanabhinav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: on twiter @akduey7
 - 😄 Pronouns:He/is
-- ⚡ Fun fact:I not good at jocking but always try to make joke same thing with singing 🙂🙂.
+- ⚡ Fun fact:I not good at jocking but always try to make joke same thing with singing 🙂🙂. -->
 
