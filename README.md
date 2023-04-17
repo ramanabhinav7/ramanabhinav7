@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: on twiter @akduey7
 - 😄 Pronouns:He/is
-- ⚡ Fun fact:I can lough for no reasons.
+- ⚡ Fun fact:I not good at jocking but always try to make joke same thing with singing 🙂🙂.
 -->
