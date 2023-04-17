@@ -1,5 +1,5 @@
 ### Hello, Abhinav_dubey here! 👋
-⚡ Fun fact:I not good at jocking but always try to make joke same thing with singing
+⚡ Fun fact:I not good at joking but always try to make joke of, same thing with singing
 
 <!-- 
 **ramanabhinav7/ramanabhinav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
