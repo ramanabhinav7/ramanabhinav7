@@ -3,7 +3,7 @@
 
 👀 I’m interested in web developement(backend),python-flask,REST , node and learning NEST, PRISMA...
 
-🌱 I’m graduated in 2024.
+🌱 I’ve graduated in 2024.
 
 👯 I’m looking to collaborate on various kind of projects to learn and develop my skills....
 
