@@ -9,6 +9,7 @@
 
 📫 You can reach me on https://abhinaviiitsurat.netlify.app/ ...
 
+📝 https://medium.com/@abhinav.90444/title-pushing-artifacts-to-artifact-registry-a-step-by-step-guide-97f825242cfc
 
 <!-- 
 **ramanabhinav7/ramanabhinav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
