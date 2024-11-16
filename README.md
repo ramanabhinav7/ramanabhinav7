@@ -3,13 +3,13 @@
 
 👀 I’m interested in web developement(backend),python-flask,REST , node and learning NEST, PRISMA...
 
-🌱 I’m currently pursuing ECE from IIIT Surat ...
+🌱 I’m graduated in 2024.
 
 👯 I’m looking to collaborate on various kind of projects to learn and develop my skills....
 
 📫 You can reach me on https://abhinaviiitsurat.netlify.app/ ...
 
-📝 https://medium.com/@abhinav.90444/title-pushing-artifacts-to-artifact-registry-a-step-by-step-guide-97f825242cfc
+📝 I also write some time: https://medium.com/@abhinav.90444/title-pushing-artifacts-to-artifact-registry-a-step-by-step-guide-97f825242cfc
 
 <!-- 
 **ramanabhinav7/ramanabhinav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
